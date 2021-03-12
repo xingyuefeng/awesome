@@ -13,4 +13,5 @@
 ## TOOL
 
 [Yeoman: 用WEB脚手架工具构建WEB APP优化你的工作流让你快速、优雅的 CODING](https://yeoman.io/)
+[majestic: Jest GUI 可视化工具](https://github.com/Raathigesh/majestic)
 
